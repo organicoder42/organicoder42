@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @organicoder42
 - 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Next.JS
 - 💞️ I’m looking to collaborate on AI-projects 
 - 📫 How to reach me X/Twitter @ThomasSaaby
 
